@@ -1,0 +1,20 @@
+header{
+   display: block;
+   font-size: x-large;
+   background-image: url(./Imágenes/foto1recortada.jpg);
+   background-size: cover;
+   width: 1300;
+   height: 300px;
+   font-family: 'Edu NSW ACT Foundation', cursive;
+   text-align: center;  
+  color: rgba(0, 0, 0, 0.701);
+}
+.contenedor{
+   display: flex
+  
+}
+
+.elemento{
+    flex-flow: row wrap
+    align
+}
