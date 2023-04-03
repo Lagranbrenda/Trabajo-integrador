@@ -1,3 +1,8 @@
+h1{
+   font-family: 'Edu NSW ACT Foundation', cursive;
+   text-align: center;
+}
+
 header{
    display: block;
    font-size: x-large;
@@ -7,14 +12,37 @@ header{
    height: 300px;
    font-family: 'Edu NSW ACT Foundation', cursive;
    text-align: center;  
-  color: rgba(0, 0, 0, 0.701);
+   color: rgba(2, 1, 14, 0.712);
+   
 }
+h2, h3{
+   text-align: center;
+}
+
 .contenedor{
-   display: flex
-  
+   display: flex;
+   background-color: antiquewhite;
+   justify-content: space-around;
+   image-rendering: auto;
+
+   
+
+   
+   
+    
 }
 
 .elemento{
-    flex-flow: row wrap
-    align
+   margin-top: 2%;
+   text-indent: 2%;
+   padding-left: 20px;
+   padding-right: 20px;
+   background-color: rgb(223, 207, 187);
+   font-family:'Roboto', sans-serif;
+   width: 600px;
+   color:rgba(0, 0, 0, 0.716)
+   
+   
+   
 }
+   
